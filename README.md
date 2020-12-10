@@ -1,6 +1,6 @@
 # About Me 🙃
 
 ***\*beep\* \*boop\****  
-🚧🚧🚧 ***work in progress...*** 🚧🚧🚧  
+🚧🚧🚧 ***construction ahead!!!*** 🚧🚧🚧  
   
 Have a nice day and don't forget to hydrate!!! 🍺🍺🍺
