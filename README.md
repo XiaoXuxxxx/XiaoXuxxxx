@@ -1,8 +1,11 @@
 # About Me 🙃
 
-***\*beep\* \*boop\****  
-🚧🚧🚧 ***construction ahead!!!*** 🚧🚧🚧  
-
+<p align="center">
+   <b>
+      ***\*beep\* \*boop\**** <br/> 
+    🚧🚧🚧 ***construction ahead!!!*** 🚧🚧🚧  
+   </b>
+</p>
 
 ```
 [ For moblie please swipe >>> ]
