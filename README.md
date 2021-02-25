@@ -5,7 +5,7 @@
 
 Have a nice day and don't forget to hydrate!!! 🍺🍺🍺
 
-# Wait!!!
+> [for moblie please swipe >>>]
 ```
 Wait it's construct until now ????         Always has been.
              👨‍🚀                             🔫👨‍🚀
