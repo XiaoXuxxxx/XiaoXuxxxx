@@ -2,8 +2,8 @@
 
 <p align="center">
    <b>
-      ***\*beep\* \*boop\**** <br/> 
-    🚧🚧🚧 ***construction ahead!!!*** 🚧🚧🚧  
+      *beep* *boop* <br/> 
+    🚧🚧🚧 construction ahead!!! 🚧🚧🚧  
    </b>
 </p>
 
