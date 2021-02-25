@@ -10,7 +10,7 @@
 ```
 [ For moblie please swipe >>> ]
 
-Wait it's construct until now ????         Always has been.
+Wait!!!, it's constructing ????         Always has been.
              👨‍🚀                             🔫👨‍🚀
 ```
 
