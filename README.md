@@ -15,4 +15,9 @@ Here's my portfolio >>> [click me](https://files.injext.me/resume)
 
 <img width=1200 src="https://github.com/30675/run-snake/blob/output/github-contribution-grid-snake-dark.svg" />
 
+***
 
+🙏 Thanks all the cool project for my readme
+- cool snake > https://github.com/Platane/snk
+- cool stat > https://github.com/anuraghazra/github-readme-stats
+- cool streak > https://github.com/denvercoder1/github-readme-streak-stats
