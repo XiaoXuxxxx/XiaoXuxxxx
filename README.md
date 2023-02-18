@@ -7,7 +7,7 @@ Hello! my name is Aonrok. I love to do coding and always seek to try the new thi
 
 Here's my portfolio >>> [click me](https://files.injext.me/resume)
 
-# 😎 Here's the stat card and cool snake
+## 😎 Here's the stat card and cool snake
 <br>
 <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=XiaoXuxxxx&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 
