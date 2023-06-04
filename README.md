@@ -5,8 +5,6 @@ Hello! my name is Aonrok. I love to do coding and always seek to try the new thi
 - 🌸 currently working on web development — doing both frontend and backend
 - 🐻 also the deployment and infrastructure
 
-Here's my portfolio >>> [click me](https://files.injext.me/resume)
-
 ## 😎 Here's the stat card and cool snake
 <br>
 <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=XiaoXuxxxx&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
